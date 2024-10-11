@@ -1,0 +1,26 @@
+[
+    {
+        "src" : "/fruits/apple.png",
+        "matched" : false
+    },
+    {
+        "src" : "/fruits/avocado.png",
+        "matched" : false
+    },
+    {
+        "src" : "/fruits/cherry.png",
+        "matched" : false
+    },
+    {
+        "src" : "/fruits/grape.png",
+        "matched" : false
+    },
+    {
+        "src" : "/fruits/pineapple.png",
+        "matched" : false
+    },
+    {
+        "src" : "/fruits/banana.png",
+        "matched" : false
+    }
+]
